@@ -1,0 +1,22 @@
+{
+  "name": "Test-React-Application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --colors -c ./jest.config.json"
+  },
+  "repository": {
+    "url": "git@github.com:fatefan/Test-React-Application.git",
+    "type": "git"
+  },
+  "author": "fynn <iamfatefan000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^19.0.2",
+    "jest-babel": "^1.0.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}

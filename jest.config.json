@@ -1,0 +1,7 @@
+{
+    "moduleFileExtensions": [
+        "js",
+        "jsx"
+    ],
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$"
+}
