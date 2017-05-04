@@ -1,7 +1,7 @@
 import hw from '../hw';
 
 describe('hw', () => {
-    xit("hw default test", () => {
+    it("hw default test", () => {
         expect(hw()).toBe("Hello World!")
     });
 
