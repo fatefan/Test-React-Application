@@ -5,7 +5,8 @@
     ],
     "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$",
     "moduleNameMapper":{
-        "Components":"<rootDir>/components/",
+        "TodoList":"<rootDir>/components/TodoList.js",
+        "Todo":"<rootDir>/components/Todo.js",
         "Actions":"<rootDir>/actions/"
     }
 }
