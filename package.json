@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start":"webpack-dev-server",
-    "dev":"webpack",
+    "start": "webpack-dev-server",
+    "dev": "webpack",
     "test": "jest --coverage --colors -c ./jest.config.json"
   },
   "repository": {
@@ -27,6 +27,7 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "enzyme": "^2.8.2",
+    "enzyme-to-json": "^1.5.1",
     "react-addons-test-utils": "^15.5.1",
     "react-test-renderer": "^15.5.4",
     "webpack": "^2.4.1",
