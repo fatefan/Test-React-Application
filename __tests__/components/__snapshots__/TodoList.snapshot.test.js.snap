@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodoList /> SnapShot 1`] = `
+<ul>
+  <li
+    class="complete"
+  >
+    hello world
+  </li>
+  <li
+    class="default"
+  >
+    eat
+  </li>
+</ul>
+`;
